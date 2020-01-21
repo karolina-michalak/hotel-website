@@ -57,6 +57,23 @@ p{
     color: #333;
 }
 
+.bg-dark{
+    background: #333;
+    color: white
+}
+
+.bg-light{
+    background: #f4f4f4;
+    color: #333
+}
+
+.bg-primary{
+    background: #333;
+    color: #f7c08a
+}
+
+
+
 #navbar{
     background-color: #333;
     color: white;
@@ -124,4 +141,13 @@ p{
     width: 50%;
     background: url('../img/photo-1.jpg') no-repeat;
     min-height: 100%;
+}
+
+#home-info .info-content{
+    float: right;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding: 50px 30px;
+    overflow: hidden;
 }
