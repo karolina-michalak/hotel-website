@@ -37,6 +37,21 @@ p{
     font-size: 20px;
 }
 
+.btn{
+    display: inline-block;
+    font-size: 18px;
+    color: white;
+    background: #333;
+    padding: 13px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: #f7c08a;
+    color: #333
+}
+
 #navbar{
     background-color: #333;
     color: white;
